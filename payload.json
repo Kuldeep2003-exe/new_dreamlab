@@ -1,0 +1,7 @@
+{
+  "model": "dall-e-3",
+  "prompt": "test cat",
+  "n": 1,
+  "size": "512x512",
+  "response_format": "url"
+}
